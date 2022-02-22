@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@middy/core": "^2.5.3",
+    "@middy/http-json-body-parser": "^2.5.3",
+    "aws-sdk": "^2.1044.0",
+    "axios": "^0.26.0",
+    "dotenv": "^16.0.0",
+    "i18n": "^0.14.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^3.12.2"
+  }
+}
